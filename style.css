@@ -1,0 +1,132 @@
+@charset "UTF-8";
+
+article, aside, footer, header, main, nav, section {
+display; block; 
+}
+
+html,body,hl,h2,h3,ul,li,a,p,article,aside,footer,header,main,nav,section{
+	padding: 0; 
+	margin: 0; 
+}
+
+.banner{
+	background-color: black; 
+ 
+	padding: 10px 20px;
+}
+
+body {
+	width: 960px;
+	margin-left: auto; 
+	margin-right: auto; 
+	background-color: #f0f0f0; 
+	font-family: Halvetica, Arial, sans-serif; 
+	font-size: 15px;
+}
+
+nav{
+	background-color: #FF1493;
+	padding: 5px; 
+	margin-top: 1px; 
+	
+}
+
+li a {
+	color: black; 
+	
+	
+}
+
+li{
+	display: inLine; 
+	margin-left: 160px; 
+	margin-right: auto; 
+	font-size: 20px; 
+	font-variant: small-caps; 
+	font-weight: bold; 
+	font-family: "goudy stout";
+	
+}
+
+section {
+	background-color: black; 
+	margin-top: 10px; 
+	padding: 5px;
+	color: white; 	
+	font-size; 100px;
+	font-family: "elegant ink";
+	 
+	
+}
+
+article {
+	background-color: #FFB6C1; 
+	margin-top: 5px;
+ 	padding: 10px 15px;
+	margin-left: 15px; 
+	margin-right: 15px; 
+	
+}
+
+main{
+	width: 640px;
+	float: left; 
+	margin-bottom: 10px;
+}
+
+aside {
+  background-color: #FFB6C1;
+  width: 270px;
+  float: right; 
+  padding: 20px; 
+  margin-top: 10px; 
+ 
+  
+}
+
+footer{
+	clear: both;
+	background-color: #20416c; 
+	color: white; 
+	padding: 5px 20px; 
+}
+
+.rav{
+	margin-right: 20px; 
+	margin-right: 20px; 
+}
+
+.logo{
+  display:block; 
+  margin-left: auto; 
+  margin-right: auto; 
+	
+}
+
+.fbpic{
+	width: 20px; 
+	height: 20px
+}
+
+.fb{
+ color:white;
+ font-family: "times new roman";
+}
+
+.galpics{
+margin-left:20px;
+
+	display: inLine-block; 
+
+	
+}
+
+h2{
+	font-family:"A black lives" ;
+	
+}
+
+
+
+
+
